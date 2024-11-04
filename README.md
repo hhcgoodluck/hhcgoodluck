@@ -1,3 +1,2 @@
 -  Hi, I’m @hhcgoodluck
--  currently study in University of Toronto utsg 
--  Computer Science Specialist & Mathematics Specialist
+-  Computer Science & Mathematics 
