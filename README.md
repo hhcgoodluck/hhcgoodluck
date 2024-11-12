@@ -1,2 +1,3 @@
 -  Hi, I’m @hhcgoodluck
+-  University of Toronto & Northeastern University (ShenYang China)
 -  Computer Science & Mathematics 
